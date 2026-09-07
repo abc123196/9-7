@@ -21,4 +21,3 @@ jobs:
           pip install beautifulsoup4
       - name: Run Python script
         run: python test1.py
-
